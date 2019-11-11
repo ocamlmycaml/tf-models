@@ -1,0 +1,6 @@
+tensorflow_datasets
+nltk
+matplotlib
+bokeh
+keract
+
