@@ -3,4 +3,5 @@ nltk
 matplotlib
 bokeh
 keract
+scikit-learn
 
